@@ -4,7 +4,7 @@ My name is Sarah Dankwa and I am a junior data engineer with a passion for Pytho
 
 I am currently working on a comprehensive data pipeline solution leveraging tools such as PostgreSQL, Amazon S3 and Lambda and creating visualisations using Power BI.
 
-I am also working towards the DEA-C01 - AWS Certified Data Engineer - Associate exam.
+I am also working towards the DEA-C01 Certified Data Engineer Associate exam.
 
 I am looking to do a few projects using Databricks to enhance my toolkit.
 
